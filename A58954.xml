@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Testimony of tender advice and counsel given forth from our half-years meeting in Dublin, the 9th of the 9th month, 1688, to all that are convinced of the blessed truth and make profession thereof throughout this nation of Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58954</idno>
+            <idno type="STC">Wing S2252</idno>
+            <idno type="STC">ESTC R29352</idno>
+            <idno type="EEBO-CITATION">11077114</idno>
+            <idno type="OCLC">ocm 11077114</idno>
+            <idno type="VID">46278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1431:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Testimony of tender advice and counsel given forth from our half-years meeting in Dublin, the 9th of the 9th month, 1688, to all that are convinced of the blessed truth and make profession thereof throughout this nation of Ireland.</title>
+                  <author>Seaton, Alexander.</author>
+                  <author>Society of Friends.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin? :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: "By order of our half-years meeting, by Alexander Seaton".</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46278:1"/>
+            <pb n="1" facs="tcp:46278:1" rendition="simple:additions"/>
+            <head>A TESTIMONY OF Tender ADVICE and COUNSEL, Given forth from our Half-years Meeting in <hi>Dublin,</hi> the 9th of the 9th Month, 1688. <hi>To all that are convinced of the bleſſed Truth, and make pro<g ref="char:EOLhyphen"/>feſſion thereof, throughout this Nation of</hi> Ireland.</head>
+            <opener>
+               <salute>DEAR FRIENDS,</salute>
+            </opener>
+            <p>VVE having under our conſideration at this time in the weighty ſenſe of the holy Truth, and in a true Zeal for the Proſperity thereof, to write unto you, as we have done feveral times formerly, which is for the good of all, to adviſe all that profeſs Truth to walk as becomes the Goſpel in their Converſation, Ap<g ref="char:EOLhyphen"/>parel, Deportment and Dealings, <hi>&amp;c.</hi> which Advice hath not been ſo fully obſerved (by ſome) as we deſired: There<g ref="char:EOLhyphen"/>fore in a ſenſe of the weighty Care that is upon our Spi<g ref="char:EOLhyphen"/>rits at this time (which did livingly ſeize upon all the ſenſible Members of this Meeting,) we do again admoniſh all young People, and Others, to beware of a falſe Liberty in theſe things, and alſo to keep to the pure Language of Truth, and be careful not to degenerate into the confuſed Language of the World, or the vain and changeable Faſhi<g ref="char:EOLhyphen"/>ons thereof. Moreover, we adviſe, That none that pro<g ref="char:EOLhyphen"/>feſs Truth, who have Hair enough upon their Heads, may ſuffer a vain unſettled mind to have place in them, ſo as to
+<pb n="2" facs="tcp:46278:2"/>
+cut off their own Hair, and get great ruffling Periwigs, which Truth will not allow of; but if any have a real ne<g ref="char:EOLhyphen"/>ceſſity, for want of Hair, or otherwiſe, then let them get ſuch Borders, or Periwigs, as are plain and decent, which beſt ſuits our Principles.</p>
+            <p>Theſe things in particular we lay before you; and our earneſt deſire is, that in theſe, and all things elſe in general, you may mind the Conduct of the Word of Grace in your own hearts, that you may be taught thereby (as the true Chriſtians were of old) <hi>to deny all ungodlineſs and worldly luſts, and to live ſoberly, righteouſly and godlily in this preſent world,</hi> that ſo you may adorn the Goſpel by your holy Lives, and godly Converſation, always coupled with the Fear of the Lord.</p>
+            <p>And our tender Adviſe is to all the Elders of every Meet<g ref="char:EOLhyphen"/>ing, to take care that the ſeveral Teſtimonies given forth heretofore be frequently read, and the wholſom Adviſe, thereinput in practice. And whereas we have ground for a godly jealouſie, that there are ſome Parents of Children, who ought to be concerned as Elders in the Church, that do indulge their Children in ſuch diſorders as afore-menti<g ref="char:EOLhyphen"/>oned, whereby the hands of the Faithful are weakned, and the Teſtimonies of Truth ſlighted; which thing being very hurtful in the Church, we deſire, that where ſuch Parents are, they may be Admoniſhed by thoſe that are faithful, that the Teſtimony of Truth may be kept up in its ancient purity and plainneſs, and our Youth and others reclaimed, and preſerv'd out of ſuch things as are a Reproach to Truth, a Grief to honeſt-hearted Friends, and deſtructive to their own Souls.</p>
+            <p>And further, Dear Friends, we do intreat and beſeech you all to be mindful of your Duty in Meeting together, according to the good Advice often given unto us, and our
+<pb n="3" facs="tcp:46278:2"/>
+ancient Practice, for which we were zealous in the begin<g ref="char:EOLhyphen"/>ing, after the Lord had made his Truth known unto us, and in which we have ſo frequently met with the Lord, and through his preſence been ſo richly rewarded; the neg<g ref="char:EOLhyphen"/>lect whereof, we fear, doth bring a coldneſs, deadneſs and barrenneſs upon the Souls of ſome, and may cauſe them to loſs that Warmth, Freſhneſs and Zeal that was upon their Hearts in former times. And truly, Friends, we have a ſence upon our Spirits that too many are ſubject to a care<g ref="char:EOLhyphen"/>leſneſs of performing this duty of meeting together, eſpe<g ref="char:EOLhyphen"/>cially upon the Week-days, their minds being too much taken up with earthly concerns, whereby they come not only to be hurt, by giving way to the Spirit of the World, with its choaking Cares; but alſo they are prevented from receiving the renewing vertue of the Power of God, which by the Faithful is enjoyed; ſo they, through their negli<g ref="char:EOLhyphen"/>gence, come to wither and decay in their inward Man, and loſe ſtrength for want of the ſame: Wherefore we deſire that a godly care may be upon every mind, and that all Friends may be ſtirred up to a diligent performance of this bleſſed incumbent Duty, that the benefit thereof every one may reap to their comfort.</p>
+            <p>Laſtly, We tenderly exhort all Friends, that the forego<g ref="char:EOLhyphen"/>ing Teſtimony be frequently read in your Meetings and Families, and the wholſom Advice therein contained put in practice, which will tend to the Honour of God, and the Well-being of your Immortal Souls; which is the earneſt deſire of your Friends and Brethren.</p>
+            <closer>
+               <signed>Signed by Order of our Half-years Meeting, by Alexander Seaton.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
